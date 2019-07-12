@@ -5,7 +5,7 @@ from datetime import datetime
 from datetime import timedelta  
 #View Available Parking Spots On Map (To get the Parking Spots and display in terms of Json format).
 USERNAME='root'
-PASSWORD='M1234@patil'
+PASSWORD='xxxxx'
 HOST='localhost'
 DB='parking_reservation'
 app=Bottle()
